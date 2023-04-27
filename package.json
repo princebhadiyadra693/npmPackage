@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Prince Bhadiyadra",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/princebhadiyadra693/npmPackage"
+  },
   "license": "ISC"
 }
